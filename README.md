@@ -56,10 +56,7 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dstevengmz&layout=compact&show_icon=true&theme=algolia" alt="Dstevengmz-langs"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/?username=Dstevengmz&layout=compact&show_icon=true&theme=algolia" alt="Dstevengmz-stats"/>
 </div>
-<div align="center">
-  <img src="http://github-readme-streak-stats.herokuapp.com?user=Dstevengmz&theme=algolia&background=0d1117&hide_border=true" />
-  <img src="https://activity-graph.herokuapp.com/graph?username=Dstevengmz&theme=react-dark"/>
-</div>
+
 
 
 ## <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px"> Para más información, conéctate conmigo
